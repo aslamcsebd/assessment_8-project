@@ -15,3 +15,10 @@
     </a>
 </details>
 
+### 2)  [Dynamic discount value [Alobha Technologies Private Limited(india)]](https://github.com/aslamcsebd/assessment/tree/main/discount)
+<details>
+    <summary>Page screenshot</summary>
+    <a href="#" target="_blank">
+        <img src="discount/images/discount.png">
+    </a>
+</details>
