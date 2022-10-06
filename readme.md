@@ -38,3 +38,32 @@
         <img src="tic-tac-toe/screenshot/tic3.png">
     </a>
 </details>
+
+### 4) [onlinePoll [Zabai Bangladesh]](https://github.com/aslamcsebd/assessment/tree/main/onlinePoll)
+<details>
+    <summary>See project screenshot</summary>
+    Home page
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll.png">
+    </a>    
+    Register
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll2.png">
+    </a>
+    Login
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll3.png">
+    </a>
+    Add question & option
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll4.png">
+    </a>    
+    Add answer by you
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll5.png">
+    </a>
+    See question & answer overview
+    <a href="#" target="_blank">
+        <img src="onlinePoll/screenshot/poll6.png">
+    </a>
+</details>
