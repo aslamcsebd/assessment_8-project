@@ -67,3 +67,16 @@
         <img src="onlinePoll/screenshot/poll6.png">
     </a>
 </details>
+
+### 5) [Currency rate](https://github.com/aslamcsebd/assessment/tree/main/currencyRate)
+<details>
+    <summary>See project screenshot</summary>
+    Today's currency rate
+    <a href="#" target="_blank">
+        <img src="currencyRate/screenshot/currency.png">
+    </a>
+    Currency commission rate
+    <a href="#" target="_blank">
+        <img src="currencyRate/screenshot/currency2.png">
+    </a>
+</details>
