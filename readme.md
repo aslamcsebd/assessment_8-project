@@ -80,3 +80,20 @@
         <img src="currencyRate/screenshot/currency2.png">
     </a>
 </details>
+
+### 6) [Report page](https://github.com/aslamcsebd/assessment/tree/main/reportPage)
+<details>
+    <summary>See project screenshot</summary>
+    Form page
+    <a href="#" target="_blank">
+        <img src="reportPage/screenshot/report.png">
+    </a>
+    Report page
+    <a href="#" target="_blank">
+        <img src="reportPage/screenshot/report2.png">
+    </a>
+    View page
+    <a href="#" target="_blank">
+        <img src="reportPage/screenshot/report3.png">
+    </a>
+</details>
