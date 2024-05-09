@@ -125,3 +125,31 @@
         <img src="animalHealth/screenshot/animal7.png">
     </a>
 </details>
+
+### 8) [Blog system [creative_tech_park]](https://github.com/aslamcsebd/assessment/tree/main/blog)
+<details>
+    <summary>See project screenshot</summary>
+    Admin
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog.png">
+    </a>
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog2.png">
+    </a>
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog3.png">
+    </a>
+    Vendor
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog4.png">
+    </a>
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog5.png">
+    </a>
+    Customer
+    <a href="#" target="_blank">
+        <img src="blog/screenshot/blog6.png">
+    </a>
+</details>
+
+
