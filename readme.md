@@ -1,4 +1,5 @@
 ### 1) [Json crud [Alobha Technologies Private Limited(india)]](https://github.com/aslamcsebd/assessment/tree/main/json_crud)
+
 <details>
     <summary>See project screenshot</summary>
     List page
@@ -15,6 +16,7 @@
 </details>
 
 ### 2) [Dynamic discount value [Alobha Technologies Private Limited(india)]](https://github.com/aslamcsebd/assessment/tree/main/discount)
+
 <details>
     <summary>Page screenshot</summary>
     <a href="#" target="_blank">
@@ -23,6 +25,7 @@
 </details>
 
 ### 3) [tic-tac-toe](https://github.com/aslamcsebd/assessment/tree/main/tic-tac-toe)
+
 <details>
     <summary>See project screenshot</summary>
     Login page
@@ -40,6 +43,7 @@
 </details>
 
 ### 4) [onlinePoll [Zabai Bangladesh]](https://github.com/aslamcsebd/assessment/tree/main/onlinePoll)
+
 <details>
     <summary>See project screenshot</summary>
     Home page
@@ -69,6 +73,7 @@
 </details>
 
 ### 5) [Currency rate](https://github.com/aslamcsebd/assessment/tree/main/currencyRate)
+
 <details>
     <summary>See project screenshot</summary>
     Today's currency rate
@@ -82,6 +87,7 @@
 </details>
 
 ### 6) [Report page](https://github.com/aslamcsebd/assessment/tree/main/reportPage)
+
 <details>
     <summary>See project screenshot</summary>
     Form page
@@ -99,6 +105,7 @@
 </details>
 
 ### 7) [Animal health](https://github.com/aslamcsebd/assessment/tree/main/animalHealth)
+
 <details>
     <summary>See project screenshot</summary>
     Home page
@@ -127,6 +134,7 @@
 </details>
 
 ### 8) [Blog system [creative_tech_park]](https://github.com/aslamcsebd/assessment/tree/main/blog)
+
 <details>
     <summary>See project screenshot</summary>
     Admin
@@ -152,4 +160,23 @@
     </a>
 </details>
 
+### 9) [Event Management]](https://github.com/aslamcsebd/assessment/tree/main/eventManagement)
 
+<details>    
+    <summary>See project screenshot</summary>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event1.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event2.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event3.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event4.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event5.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event6.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event7.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event8.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event9.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event10.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event11.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event12.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event13.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event14.png"></a>
+    <a href="#" target="_blank"><img src="eventManagement/screenshot/event15.png"></a>
+</details>
