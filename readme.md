@@ -181,7 +181,7 @@
     <a href="#" target="_blank"><img src="eventManagement/screenshot/event15.png"></a>
 </details>
 
-### 9) [Login form [cubix]](https://github.com/aslamcsebd/assessment/tree/main/loginForm)
+### 10) [Login form [cubix]](https://github.com/aslamcsebd/assessment/tree/main/loginForm)
 
 <details>    
     <summary>See project screenshot</summary>
@@ -190,3 +190,29 @@
     <a href="#" target="_blank"><img src="loginForm/screenshot/login3.png"></a>
     <a href="#" target="_blank"><img src="loginForm/screenshot/login4.png"></a>
 </details>
+
+### 10) [Product management [getup]](https://github.com/aslamcsebd/assessment/tree/main/productManagement)
+
+<details>    
+    <summary>See project screenshot</summary>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup1.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup2.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup3.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup4.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup5.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup6.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup7.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup8.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup9.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup10.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup11.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup12.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup13.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup14.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup15.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup16.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup17.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup18.png"></a>
+    <a href="#" target="_blank"><img src="productManagement/screenshot/getup19.png"></a>
+</details>
+
